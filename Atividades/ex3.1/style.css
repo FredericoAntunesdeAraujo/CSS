@@ -13,6 +13,7 @@
   }
 
   .white-text{
+    margin: -10px;
     color: white;
     background-color:  red;
     padding: 10px;
